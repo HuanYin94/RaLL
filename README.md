@@ -16,18 +16,23 @@ point cloud maps and images with resolution of 0.25m/pixel
 groud truth poses for evaluation
 
 * `data/odom`
+
 odometry data via ICP
 
 * `ekf_filter`
+
 differetiable ekf implementation
 
 * `loss`
+
 cross entropy loss (L1) and squared error loss (L2)
 
 * `network`
+
 feature extraction network and patch network
 
 * `test_py`
+
 test pose tracking on RobotCar and MulRan
 
 ### To train RaLL
