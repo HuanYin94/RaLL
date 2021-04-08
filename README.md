@@ -1,28 +1,40 @@
 # RaLL
 RaLL: End-to-end Radar Localization on Lidar Map Using Differentiable Measurement Model
 
+Video:  [YouTube](https://youtu.be/a3wEv-eVlcg) | [Bilibili](https://www.bilibili.com/video/BV1my4y1b7Ns)
+
 <img src="https://github.com/ZJUYH/RaLL/blob/master/img/robotcar.gif" width=500>
 
-* data/maps (>80Mb)
+### Folders
+
+* `data/maps (>80Mb)`
+
 point cloud maps and images with resolution of 0.25m/pixel
-### data/gt_poses
+
+* `data/gt_poses`
+
 groud truth poses for evaluation
-### data/odom
+
+* `data/odom`
 odometry data via ICP
 
-### ekf_filter
+* `ekf_filter`
 differetiable ekf implementation
-### loss
+
+* `loss`
 cross entropy loss (L1) and squared error loss (L2)
-### network
+
+* `network`
 feature extraction network and patch network
-### test_py
-pose tracking files on RobotCar and MulRan
+
+* `test_py`
+test pose tracking on RobotCar and MulRan
 
 ### To train RaLL
 Please use the `train_rall_L12.py` and `train_rall_L3.py`.
 Please modify the data path in the python files.
 
+### Publication
 If you use our data or code in an academic work, please cite the following paper:
 
 	@article{yin2021rall,
