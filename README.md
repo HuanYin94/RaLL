@@ -3,9 +3,9 @@ RaLL: End-to-end Radar Localization on Lidar Map Using Differentiable Measuremen
 
 <img src="https://github.com/ZJUYH/RaLL/blob/master/img/robotcar.gif" width=500>
 
-### data/maps (>80Mb)
+* data/maps (>80Mb)
 point cloud maps and images with resolution of 0.25m/pixel
-### data/gt_poses (>80Mb)
+### data/gt_poses
 groud truth poses for evaluation
 ### data/odom
 odometry data via ICP
