@@ -40,7 +40,7 @@ Please use the `train_rall_L12.py` and `train_rall_L3.py`.
 Please modify the data path in the python files.
 
 ### Publication
-If you use our code in an academic work or inspired by our method, please consider citing the following:
+If you use the data or code in an academic work, or inspired by our method, please consider citing the following:
 
 	@article{yin2021rall,
 	  title={RaLL: End-to-end Radar Localization on Lidar Map Using Differentiable Measurement Model},
