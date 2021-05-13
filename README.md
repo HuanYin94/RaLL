@@ -23,9 +23,17 @@ odometry data via ICP
 
 differetiable ekf implementation
 
+* `loader`
+
+dataLoader for training and inference
+
 * `loss`
 
 cross entropy loss (L1) and squared error loss (L2)
+
+* `models`
+
+Pre-trained models of RaLL
 
 * `network`
 
@@ -51,6 +59,3 @@ If you use the data or code in an academic work, or inspired by our method, plea
 	}
 
 If you have any questions, feel free to contact: [Huan Yin](https://yinhuan.site/) `zjuyinhuan@gmail.com`.
-
-### TODO
-- Upload the trained models.
