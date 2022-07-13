@@ -58,6 +58,4 @@ If you use the data or code in an academic work, or inspired by our method, plea
 	  publisher={IEEE}
 	}
 
-If you have any questions, feel free to contact: [Huan Yin](https://yinhuan.site/) `zjuyinhuan@gmail.com`.
-
 We also propose a heterogeneous place recognition method with radar and lidar. Please refer to [Radar-to-Lidar](https://github.com/ZJUYH/radar-to-lidar-place-recognition) for details.
