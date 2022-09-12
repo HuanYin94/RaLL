@@ -1,7 +1,7 @@
 # RaLL
 RaLL: End-to-end Radar Localization on Lidar Map Using Differentiable Measurement Model
 
-Video:  [YouTube](https://youtu.be/a3wEv-eVlcg) | [Bilibili](https://www.bilibili.com/video/BV1my4y1b7Ns)
+Video:  [YouTube](https://youtu.be/OwinC9IE2Xo) | [Bilibili](https://www.bilibili.com/video/BV1my4y1b7Ns)
 
 <img src="https://github.com/ZJUYH/RaLL/blob/master/img/robotcar.gif" width=500>
 
