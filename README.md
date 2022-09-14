@@ -5,6 +5,8 @@ Video:  [YouTube](https://youtu.be/OwinC9IE2Xo) | [Bilibili](https://www.bilibil
 
 <img src="https://github.com/ZJUYH/RaLL/blob/master/img/robotcar.gif" width=500>
 
+`**NOTE: This repo is built in 2020. Please use an old PyTorch version to run it, e.g., torch==1.5.0**`
+
 ### Folders
 
 * `data/maps (>80Mb)`
