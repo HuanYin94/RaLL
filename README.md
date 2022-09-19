@@ -13,6 +13,8 @@ Video:  [YouTube](https://youtu.be/OwinC9IE2Xo) | [Bilibili](https://www.bilibil
 
 point cloud maps and images with resolution of 0.25m/pixel
 
+We have uploaded the radar scan images of Seq02 on [Google Drive](https://drive.google.com/file/d/16R6F-YCNFxGIzRA8xp4crsQBoC7Dk3-A/view?usp=sharing).
+
 * `data/gt_poses`
 
 groud truth poses for evaluation
